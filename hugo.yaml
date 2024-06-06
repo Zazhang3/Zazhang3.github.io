@@ -84,6 +84,8 @@ params:
       url: "https://stackoverflow.com"
     - name: github
       url: "https://github.com/Zazhang3"
+    - name: bilibil
+      url: "https://space.bilibili.com/8287671?spm_id_from=333.1007.0.0"
 
   analytics:
     google:
